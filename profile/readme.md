@@ -91,6 +91,7 @@ Gmail sync with multi-account OAuth, threaded conversations, two-column layout, 
 
 </sub>
 
+<a href="https://github.com/semos-labs/epist/releases/latest"><img src="https://img.shields.io/github/v/release/semos-labs/epist?label=release&color=green" alt="Release"></a>
 <a href="https://github.com/semos-labs/epist/releases/latest"><img src="https://img.shields.io/github/downloads/semos-labs/epist/total?label=downloads&color=blue" alt="Downloads"></a>
 
 </td>
