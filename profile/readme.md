@@ -87,7 +87,7 @@ Gmail sync with multi-account OAuth, threaded conversations, two-column layout, 
 
 <sub>
 
-`git clone https://github.com/semos-labs/epist.git && cd epist && bun install && bun dev`
+`brew tap semos-labs/tap && brew install epist`
 
 </sub>
 
