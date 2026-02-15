@@ -1,7 +1,3 @@
-<h1 align="center">
-  semos labs
-</h1>
-
 <p align="center">
   <strong>Terminal-first tools & frameworks</strong><br>
   <sub>We build software for people who live in the terminal.</sub>
